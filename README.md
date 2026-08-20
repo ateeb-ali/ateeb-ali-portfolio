@@ -16,14 +16,6 @@ Personal portfolio site for me. Covers experience, projects, security practice, 
     └── profile.png # Profile photo
 ```
 
-## Running locally
-
-Just open `index.html` in a browser, or serve it:
-
-```bash
-python3 -m http.server 8000
-```
-
 ## Contact
 
 - Email: syedateeb124@gmail.com
