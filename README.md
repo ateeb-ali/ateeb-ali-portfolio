@@ -4,10 +4,6 @@ Personal portfolio site for me. Covers experience, projects, security practice, 
 
 **Live site:** https://ateebali.netlify.app/
 
-## Tech stack
-
-Plain HTML/CSS/JS — no framework, no build step.
-
 ## Project structure
 
 ```
