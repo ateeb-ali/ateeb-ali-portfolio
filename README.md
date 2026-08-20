@@ -1,4 +1,4 @@
-# Syed Ateeb Ali — Portfolio
+# Syed Ateeb Ali - Portfolio
 
 Personal portfolio site for me. Covers experience, projects, security practice, CTF profiles, speaking, skills, and certifications.
 
