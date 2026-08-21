@@ -20,4 +20,4 @@ Personal portfolio site for me. Covers experience, projects, security practice, 
 
 - Email: syedateeb124@gmail.com
 - LinkedIn: [linkedin.com/in/syedateebali](https://linkedin.com/in/syedateebali)
-- Linktree: linktr.ee/ateebali
+- Linktree: [linktr.ee/ateebali](linktr.ee/ateebali)
