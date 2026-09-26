@@ -132,16 +132,17 @@
 
   /* ---------- Speaking ---------- */
   const speakingGrid = document.getElementById("speakingGrid");
-  SPEAKING.forEach((s) => {
-    const card = document.createElement("article");
-    card.className = "speaking-card reveal";
-    card.innerHTML = `
-      <p class="speaking-title">${s.title}</p>
-      <span class="speaking-org">${s.org}</span>
-      <p class="speaking-desc">${s.description}</p>
-    `;
-    speakingGrid.appendChild(card);
-  });
+SPEAKING.forEach((s) => {
+  const card = document.createElement("article");
+  card.className = "speaking-card reveal";
+  card.innerHTML = `
+    <div class="speaking-media"><img src="${s.image}" alt="${s.org}" loading="lazy"></div>
+    <p class="speaking-title">${s.title}</p>
+    <span class="speaking-org">${s.org}</span>
+    <p class="speaking-desc">${s.description}</p>
+  `;
+  speakingGrid.appendChild(card);
+});
 
   /* ---------- Skills ---------- */
   const skillsGrid = document.getElementById("skillsGrid");
