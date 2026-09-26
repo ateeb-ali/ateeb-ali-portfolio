@@ -89,12 +89,14 @@ const SPEAKING = [
   {
     title: "Red Team vs Blue Team Strategies",
     org: "Khadim Ali Shah Bukhari Institute of Technology (KASBIT)",
-    description: "Presented offensive and defensive security operations, real-world workflows, and case studies to undergraduate students."
+    description: "Presented offensive and defensive security operations, real-world workflows, and case studies to undergraduate students.",
+    image: "assets/kasbit.jpg"
   },
   {
     title: "Careers in Cybersecurity",
     org: "The Saran Educational Trust (SET) School",
-    description: "Mentored secondary school students on cybersecurity career paths, certifications, and the skills required to get started."
+    description: "Mentored secondary school students on cybersecurity career paths, certifications, and the skills required to get started.",
+    image: "assets/set.jpg"
   }
 ];
 
